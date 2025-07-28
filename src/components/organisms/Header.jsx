@@ -5,10 +5,11 @@ import ApperIcon from "@/components/ApperIcon";
 const Header = () => {
   const location = useLocation();
 
-  const navigation = [
+const navigation = [
     { name: "Jobs", href: "/jobs", icon: "Search" },
     { name: "Applications", href: "/applications", icon: "FileText" },
     { name: "Alerts", href: "/alerts", icon: "Bell" },
+    { name: "Interview Prep", href: "/interview-prep", icon: "GraduationCap" },
     { name: "Profile", href: "/profile", icon: "User" }
   ];
 

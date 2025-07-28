@@ -1,0 +1,152 @@
+[
+  {
+    "Id": 1,
+    "question": "What is the difference between let, const, and var in JavaScript?",
+    "answer": "var is function-scoped and can be redeclared, let is block-scoped and can be reassigned but not redeclared, const is block-scoped and cannot be reassigned or redeclared.",
+    "category": "Frontend Development",
+    "industry": "Technology",
+    "difficulty": "Medium",
+    "tags": ["JavaScript", "Variables", "ES6"],
+    "tips": "Remember the hoisting behavior differences and always prefer const/let over var in modern JavaScript."
+  },
+  {
+    "Id": 2,
+    "question": "Explain the concept of closures in JavaScript.",
+    "answer": "A closure is a function that has access to variables in its outer (enclosing) scope even after the outer function has returned. This allows for data privacy and function factories.",
+    "category": "Frontend Development",
+    "industry": "Technology",
+    "difficulty": "Hard",
+    "tags": ["JavaScript", "Closures", "Scope"],
+    "tips": "Practice with examples like counter functions and module patterns to understand closures better."
+  },
+  {
+    "Id": 3,
+    "question": "What is the difference between SQL and NoSQL databases?",
+    "answer": "SQL databases are relational, use structured schemas, and support ACID transactions. NoSQL databases are non-relational, schema-flexible, and designed for horizontal scaling.",
+    "category": "Backend Development",
+    "industry": "Technology",
+    "difficulty": "Medium",
+    "tags": ["Database", "SQL", "NoSQL"],
+    "tips": "Know when to use each type based on data structure, scalability needs, and consistency requirements."
+  },
+  {
+    "Id": 4,
+    "question": "Explain the difference between supervised and unsupervised learning.",
+    "answer": "Supervised learning uses labeled training data to predict outcomes, while unsupervised learning finds patterns in unlabeled data without predefined target variables.",
+    "category": "Data Science",
+    "industry": "Technology",
+    "difficulty": "Medium",
+    "tags": ["Machine Learning", "AI", "Data Analysis"],
+    "tips": "Provide examples like classification/regression for supervised and clustering/dimensionality reduction for unsupervised."
+  },
+  {
+    "Id": 5,
+    "question": "What is your approach to handling conflict in a team?",
+    "answer": "I address conflicts directly but diplomatically, listen to all perspectives, focus on finding common ground, and work toward solutions that benefit the team and project goals.",
+    "category": "Project Management",
+    "industry": "General",
+    "difficulty": "Medium",
+    "tags": ["Communication", "Leadership", "Teamwork"],
+    "tips": "Use the STAR method (Situation, Task, Action, Result) to structure your response with specific examples."
+  },
+  {
+    "Id": 6,
+    "question": "How do you ensure code quality in your projects?",
+    "answer": "I use code reviews, automated testing, linting tools, follow coding standards, write documentation, and implement CI/CD pipelines for consistent quality assurance.",
+    "category": "Software Engineering",
+    "industry": "Technology",
+    "difficulty": "Medium",
+    "tags": ["Code Quality", "Testing", "Best Practices"],
+    "tips": "Mention specific tools you've used and emphasize the importance of team collaboration in maintaining quality."
+  },
+  {
+    "Id": 7,
+    "question": "What is RESTful API design and its principles?",
+    "answer": "REST is an architectural style using HTTP methods (GET, POST, PUT, DELETE) with stateless communication, uniform interfaces, and resource-based URLs for web services.",
+    "category": "Backend Development",
+    "industry": "Technology",
+    "difficulty": "Medium",
+    "tags": ["API", "REST", "Web Services"],
+    "tips": "Understand HTTP status codes, resource naming conventions, and statelessness principles."
+  },
+  {
+    "Id": 8,
+    "question": "How do you handle patient confidentiality in healthcare IT?",
+    "answer": "Follow HIPAA compliance, implement role-based access controls, use encryption for data transmission and storage, conduct regular security audits, and ensure proper staff training.",
+    "category": "Healthcare IT",
+    "industry": "Healthcare",
+    "difficulty": "Hard",
+    "tags": ["HIPAA", "Security", "Compliance"],
+    "tips": "Emphasize understanding of healthcare regulations and the critical importance of patient data protection."
+  },
+  {
+    "Id": 9,
+    "question": "Explain the concept of technical debt.",
+    "answer": "Technical debt refers to the implied cost of additional work caused by choosing quick solutions instead of better approaches, requiring future refactoring and maintenance.",
+    "category": "Software Engineering",
+    "industry": "Technology",
+    "difficulty": "Medium",
+    "tags": ["Architecture", "Maintenance", "Quality"],
+    "tips": "Discuss strategies for managing and reducing technical debt while balancing delivery timelines."
+  },
+  {
+    "Id": 10,
+    "question": "How do you stay updated with technology trends?",
+    "answer": "I read tech blogs, follow industry leaders on social media, attend conferences and webinars, participate in online communities, and work on personal projects to explore new technologies.",
+    "category": "General",
+    "industry": "Technology",
+    "difficulty": "Easy",
+    "tags": ["Learning", "Professional Development"],
+    "tips": "Show genuine curiosity and mention specific resources you actually use to stay current."
+  },
+  {
+    "Id": 11,
+    "question": "What is the difference between financial and managerial accounting?",
+    "answer": "Financial accounting focuses on external reporting following GAAP standards, while managerial accounting provides internal information for decision-making without standardized formats.",
+    "category": "Finance",
+    "industry": "Finance",
+    "difficulty": "Medium",
+    "tags": ["Accounting", "GAAP", "Financial Analysis"],
+    "tips": "Understand the different audiences and purposes for each type of accounting."
+  },
+  {
+    "Id": 12,
+    "question": "How do you prioritize features in product development?",
+    "answer": "I use frameworks like RICE or MoSCoW, consider user impact, business value, technical complexity, and resource constraints while involving stakeholders in the decision process.",
+    "category": "Product Management",
+    "industry": "Technology",
+    "difficulty": "Hard",
+    "tags": ["Product Strategy", "Prioritization", "Stakeholder Management"],
+    "tips": "Mention specific prioritization frameworks and emphasize data-driven decision making."
+  },
+  {
+    "Id": 13,
+    "question": "What is your experience with cloud platforms?",
+    "answer": "I have worked with AWS/Azure/GCP for deploying applications, managing databases, implementing CI/CD pipelines, and utilizing services like storage, compute, and monitoring solutions.",
+    "category": "DevOps",
+    "industry": "Technology",
+    "difficulty": "Medium",
+    "tags": ["Cloud Computing", "AWS", "Azure", "GCP"],
+    "tips": "Be specific about services you've used and include any certifications or notable projects."
+  },
+  {
+    "Id": 14,
+    "question": "How do you ensure accessibility in web applications?",
+    "answer": "I follow WCAG guidelines, use semantic HTML, implement proper ARIA labels, ensure keyboard navigation, provide alt text for images, and test with screen readers.",
+    "category": "Frontend Development",
+    "industry": "Technology",
+    "difficulty": "Hard",
+    "tags": ["Accessibility", "WCAG", "Inclusive Design"],
+    "tips": "Demonstrate understanding of disability considerations and legal requirements like ADA compliance."
+  },
+  {
+    "Id": 15,
+    "question": "Describe your approach to debugging complex issues.",
+    "answer": "I start by reproducing the issue, check logs and error messages, use debugging tools, isolate components, create minimal test cases, and document findings for future reference.",
+    "category": "Software Engineering",
+    "industry": "Technology",
+    "difficulty": "Medium",
+    "tags": ["Debugging", "Problem Solving", "Testing"],
+    "tips": "Show systematic thinking and mention specific debugging tools you're familiar with."
+  }
+]
