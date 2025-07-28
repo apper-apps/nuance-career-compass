@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "name": "Frontend Developer - San Francisco",
+    "filters": {
+      "title": "Frontend Developer",
+      "location": "San Francisco, CA",
+      "industry": "Technology",
+      "type": "Full-time"
+    },
+    "frequency": "daily",
+    "isActive": true
+  },
+  {
+    "Id": 2,
+    "name": "Remote Design Jobs",
+    "filters": {
+      "title": "Designer",
+      "location": "Remote",
+      "industry": "Design",
+      "type": "Remote"
+    },
+    "frequency": "weekly",
+    "isActive": true
+  },
+  {
+    "Id": 3,
+    "name": "Marketing Manager - Any Location",
+    "filters": {
+      "title": "Marketing Manager",
+      "location": "",
+      "industry": "Marketing",
+      "type": "Full-time"
+    },
+    "frequency": "immediate",
+    "isActive": false
+  }
+]

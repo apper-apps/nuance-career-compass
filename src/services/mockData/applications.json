@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "jobId": 1,
+    "appliedDate": "2024-01-16T10:30:00Z",
+    "status": "Applied",
+    "resumeUsed": "john_doe_resume_2024.pdf",
+    "notes": "Applied through the company website. Excited about this frontend role."
+  },
+  {
+    "Id": 2,
+    "jobId": 3,
+    "appliedDate": "2024-01-15T14:20:00Z",
+    "status": "Reviewing",
+    "resumeUsed": "john_doe_resume_design.pdf",
+    "notes": "Submitted portfolio along with application. HR responded positively."
+  },
+  {
+    "Id": 3,
+    "jobId": 7,
+    "appliedDate": "2024-01-14T09:15:00Z",
+    "status": "Interview",
+    "resumeUsed": "john_doe_resume_2024.pdf",
+    "notes": "Phone interview scheduled for next Tuesday at 2 PM."
+  },
+  {
+    "Id": 4,
+    "jobId": 11,
+    "appliedDate": "2024-01-12T16:45:00Z",
+    "status": "Rejected",
+    "resumeUsed": "john_doe_resume_writing.pdf",
+    "notes": "Not selected. They decided to go with someone with more content marketing experience."
+  }
+]

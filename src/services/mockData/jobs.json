@@ -1,0 +1,272 @@
+[
+  {
+    "Id": 1,
+    "title": "Senior Frontend Developer",
+    "company": "TechFlow Solutions",
+    "location": "San Francisco, CA",
+    "industry": "Technology",
+    "salary": { "min": 120000, "max": 160000 },
+    "description": "We are looking for a Senior Frontend Developer to join our dynamic team. You will be responsible for building responsive web applications using React, TypeScript, and modern CSS frameworks. The ideal candidate has 5+ years of experience in frontend development and a passion for creating exceptional user experiences.",
+    "requirements": [
+      "5+ years of experience with React and JavaScript",
+      "Strong proficiency in TypeScript and modern CSS",
+      "Experience with state management libraries (Redux, Zustand)",
+      "Knowledge of testing frameworks (Jest, React Testing Library)",
+      "Familiarity with CI/CD pipelines and deployment processes"
+    ],
+    "posted": "2024-01-15T10:00:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 2,
+    "title": "Product Manager",
+    "company": "InnovateLabs",
+    "location": "New York, NY",
+    "industry": "Technology",
+    "salary": { "min": 100000, "max": 140000 },
+    "description": "Join our product team as a Product Manager to drive the vision and strategy for our SaaS platform. You'll work closely with engineering, design, and sales teams to deliver features that delight our customers and drive business growth.",
+    "requirements": [
+      "3+ years of product management experience",
+      "Experience with SaaS products and B2B customers",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and leadership abilities",
+      "Experience with Agile development methodologies"
+    ],
+    "posted": "2024-01-14T14:30:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 3,
+    "title": "UX/UI Designer",
+    "company": "DesignStudio Pro",
+    "location": "Los Angeles, CA",
+    "industry": "Design",
+    "salary": { "min": 80000, "max": 110000 },
+    "description": "We're seeking a talented UX/UI Designer to create intuitive and visually appealing digital experiences. You'll be responsible for user research, wireframing, prototyping, and creating high-fidelity designs for web and mobile applications.",
+    "requirements": [
+      "3+ years of UX/UI design experience",
+      "Proficiency in Figma, Sketch, or Adobe Creative Suite",
+      "Strong portfolio showcasing web and mobile designs",
+      "Experience with user research and usability testing",
+      "Understanding of HTML/CSS and responsive design principles"
+    ],
+    "posted": "2024-01-13T09:15:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 4,
+    "title": "Data Scientist",
+    "company": "DataInsights Corp",
+    "location": "Chicago, IL",
+    "industry": "Technology",
+    "salary": { "min": 110000, "max": 150000 },
+    "description": "Join our data science team to extract insights from complex datasets and build predictive models. You'll work with large-scale data to solve business problems and drive data-driven decision making across the organization.",
+    "requirements": [
+      "Master's degree in Data Science, Statistics, or related field",
+      "3+ years of experience with Python and SQL",
+      "Experience with machine learning frameworks (scikit-learn, TensorFlow)",
+      "Strong statistical analysis and data visualization skills",
+      "Experience with cloud platforms (AWS, GCP, or Azure)"
+    ],
+    "posted": "2024-01-12T11:45:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 5,
+    "title": "Marketing Manager",
+    "company": "GrowthMakers",
+    "location": "Austin, TX",
+    "industry": "Marketing",
+    "salary": { "min": 70000, "max": 95000 },
+    "description": "Lead our marketing efforts to drive brand awareness and customer acquisition. You'll develop and execute marketing campaigns across digital channels, manage content creation, and analyze campaign performance to optimize results.",
+    "requirements": [
+      "4+ years of digital marketing experience",
+      "Experience with marketing automation platforms",
+      "Strong analytical skills and data-driven mindset",
+      "Content creation and copywriting abilities",
+      "Knowledge of SEO, SEM, and social media marketing"
+    ],
+    "posted": "2024-01-11T16:20:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 6,
+    "title": "DevOps Engineer",
+    "company": "CloudScale Systems",
+    "location": "Seattle, WA",
+    "industry": "Technology",
+    "salary": { "min": 105000, "max": 135000 },
+    "description": "We're looking for a DevOps Engineer to help scale our infrastructure and improve our deployment processes. You'll work with containerization, CI/CD pipelines, and cloud platforms to ensure reliable and efficient software delivery.",
+    "requirements": [
+      "3+ years of DevOps or infrastructure experience",
+      "Experience with Docker, Kubernetes, and cloud platforms",
+      "Proficiency in scripting languages (Python, Bash)",
+      "Knowledge of CI/CD tools (Jenkins, GitLab CI, GitHub Actions)",
+      "Experience with infrastructure as code (Terraform, CloudFormation)"
+    ],
+    "posted": "2024-01-10T13:00:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 7,
+    "title": "Sales Development Representative",
+    "company": "SalesForce Pro",
+    "location": "Boston, MA",
+    "industry": "Sales",
+    "salary": { "min": 50000, "max": 70000 },
+    "description": "Join our sales team as an SDR to generate qualified leads and book meetings for our account executives. You'll be responsible for prospecting, cold outreach, and nurturing leads through the early stages of our sales funnel.",
+    "requirements": [
+      "1-2 years of sales or customer-facing experience",
+      "Excellent communication and interpersonal skills",
+      "Experience with CRM systems (Salesforce, HubSpot)",
+      "Strong organizational and time management abilities",
+      "Goal-oriented mindset with a passion for sales"
+    ],
+    "posted": "2024-01-09T10:30:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 8,
+    "title": "Backend Developer",
+    "company": "ServerSide Solutions",
+    "location": "Denver, CO",
+    "industry": "Technology",
+    "salary": { "min": 95000, "max": 125000 },
+    "description": "We're seeking a Backend Developer to build scalable server-side applications and APIs. You'll work with modern technologies to create robust systems that power our web and mobile applications.",
+    "requirements": [
+      "3+ years of backend development experience",
+      "Proficiency in Node.js, Python, or Java",
+      "Experience with relational and NoSQL databases",
+      "Knowledge of RESTful API design and microservices",
+      "Understanding of security best practices and performance optimization"
+    ],
+    "posted": "2024-01-08T14:15:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 9,
+    "title": "HR Generalist",
+    "company": "PeopleFirst Inc",
+    "location": "Atlanta, GA",
+    "industry": "Human Resources",
+    "salary": { "min": 55000, "max": 75000 },
+    "description": "Join our HR team to support all aspects of human resources including recruitment, employee relations, performance management, and compliance. You'll play a key role in maintaining our positive company culture.",
+    "requirements": [
+      "3+ years of HR generalist experience",
+      "Knowledge of employment laws and regulations",
+      "Experience with HRIS systems and recruiting tools",
+      "Strong interpersonal and conflict resolution skills",
+      "Bachelor's degree in HR, Business, or related field"
+    ],
+    "posted": "2024-01-07T12:00:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 10,
+    "title": "Financial Analyst",
+    "company": "FinanceWorks",
+    "location": "New York, NY",
+    "industry": "Finance",
+    "salary": { "min": 75000, "max": 95000 },
+    "description": "We're looking for a Financial Analyst to support financial planning, analysis, and reporting. You'll create financial models, analyze business performance, and provide insights to support strategic decision making.",
+    "requirements": [
+      "2-3 years of financial analysis experience",
+      "Advanced Excel skills and financial modeling expertise",
+      "Knowledge of financial statements and accounting principles",
+      "Experience with financial planning software",
+      "Strong analytical and problem-solving abilities"
+    ],
+    "posted": "2024-01-06T15:45:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 11,
+    "title": "Content Writer",
+    "company": "ContentCraft",
+    "location": "Remote",
+    "industry": "Marketing",
+    "salary": { "min": 45000, "max": 60000 },
+    "description": "Create engaging content for our blog, website, and marketing campaigns. You'll research industry topics, write compelling copy, and help establish our brand voice across all content channels.",
+    "requirements": [
+      "2+ years of content writing or copywriting experience",
+      "Excellent writing and editing skills",
+      "Experience with SEO and content optimization",
+      "Familiarity with content management systems",
+      "Ability to write for different audiences and formats"
+    ],
+    "posted": "2024-01-05T11:20:00Z",
+    "type": "Remote"
+  },
+  {
+    "Id": 12,
+    "title": "QA Engineer",
+    "company": "QualityFirst Tech",
+    "location": "San Francisco, CA",
+    "industry": "Technology",
+    "salary": { "min": 85000, "max": 110000 },
+    "description": "Ensure the quality of our software products through comprehensive testing. You'll create test plans, execute manual and automated tests, and work closely with development teams to identify and resolve issues.",
+    "requirements": [
+      "3+ years of QA or software testing experience",
+      "Experience with test automation frameworks",
+      "Knowledge of API testing and performance testing",
+      "Familiarity with Agile development processes",
+      "Strong attention to detail and problem-solving skills"
+    ],
+    "posted": "2024-01-04T09:30:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 13,
+    "title": "Operations Manager",
+    "company": "EfficiencyExperts",
+    "location": "Chicago, IL",
+    "industry": "Operations",
+    "salary": { "min": 80000, "max": 100000 },
+    "description": "Lead our operations team to optimize processes and improve efficiency across the organization. You'll manage day-to-day operations, implement process improvements, and ensure smooth business operations.",
+    "requirements": [
+      "5+ years of operations management experience",
+      "Strong project management and leadership skills",
+      "Experience with process improvement methodologies",
+      "Excellent analytical and problem-solving abilities",
+      "Knowledge of operations software and tools"
+    ],
+    "posted": "2024-01-03T13:15:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 14,
+    "title": "Graphic Designer",
+    "company": "CreativeStudio",
+    "location": "Los Angeles, CA",
+    "industry": "Design",
+    "salary": { "min": 50000, "max": 70000 },
+    "description": "Create visually stunning graphics for print and digital media. You'll work on branding projects, marketing materials, and web graphics while collaborating with our creative team.",
+    "requirements": [
+      "2+ years of graphic design experience",
+      "Proficiency in Adobe Creative Suite",
+      "Strong portfolio showcasing diverse design work",
+      "Understanding of branding and visual identity",
+      "Ability to work in a fast-paced environment"
+    ],
+    "posted": "2024-01-02T10:45:00Z",
+    "type": "Full-time"
+  },
+  {
+    "Id": 15,
+    "title": "Customer Success Manager",
+    "company": "SuccessPartners",
+    "location": "Austin, TX",
+    "industry": "Technology",
+    "salary": { "min": 65000, "max": 85000 },
+    "description": "Drive customer satisfaction and retention by building strong relationships with our clients. You'll onboard new customers, provide ongoing support, and identify opportunities for account growth.",
+    "requirements": [
+      "3+ years of customer success or account management experience",
+      "Excellent communication and relationship-building skills",
+      "Experience with SaaS products and subscription models",
+      "Strong problem-solving and project management abilities",
+      "Customer-focused mindset with attention to detail"
+    ],
+    "posted": "2024-01-01T14:00:00Z",
+    "type": "Full-time"
+  }
+]

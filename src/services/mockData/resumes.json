@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "filename": "john_doe_resume_2024.pdf",
+    "uploadDate": "2024-01-10T12:00:00Z",
+    "fileUrl": "#",
+    "isDefault": true
+  },
+  {
+    "Id": 2,
+    "filename": "john_doe_resume_design.pdf",
+    "uploadDate": "2024-01-08T14:30:00Z",
+    "fileUrl": "#",
+    "isDefault": false
+  },
+  {
+    "Id": 3,
+    "filename": "john_doe_resume_writing.pdf",
+    "uploadDate": "2024-01-05T10:15:00Z",
+    "fileUrl": "#",
+    "isDefault": false
+  }
+]
